@@ -8,6 +8,7 @@ import emailjs from '@emailjs/browser'
 const serviceId = process.env.REACT_APP_YOUR_SERVICE_ID
 const templateId = process.env.REACT_APP_YOUR_TEMPLATE_ID
 const publicKey = process.env.REACT_APP_YOUR_PUBLIC_KEY
+const faltu = "hello"
 
 const Footer = () => {
 
